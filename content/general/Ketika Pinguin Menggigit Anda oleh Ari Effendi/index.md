@@ -9,6 +9,6 @@ tags: ["ILC 2022", "Slides"]
 thumbnails: [assets/thumbnail.png]
 images: [general/ketika-pinguin-menggigit-anda-oleh-ari-effendi/assets/thumbnail.png]
 downloadfile: "assets/auditorium_01_ari.odp"
-license: "CC By SA 4.0"
+license: "CC BY-NC-ND 4.0"
 ---
 Menjadi pengguna Linux dan aplikasi bebas (Free and Open Source Software) butuh usaha dan ketekunan, namun dibalik semua itu segudang manfaat bisa didapat, pada sesi ini akan dibahas kelebihan dan apa saja yang bisa dilakukan oleh Linux dan aplikasi bebas (Free and Open Source Software) dalam lingkungan sekolah, kuliah, dan pekerjaan
