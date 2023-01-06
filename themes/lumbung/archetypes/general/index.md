@@ -9,7 +9,7 @@ tags: []
 thumbnails: [assets/thumbnail.png]
 images: [general/{{ .Name | urlize }}/assets/thumbnail.png]
 downloadfile: ""
-license: "CC-BY-SA"
+license: "CC BY-SA 4.0"
 ---
 **Tulis deskripsi singkat tentang tema ini.**
 <!--silakan edit bagian nama, gitlink, thumbnail, link dowload, lisensi jika diperlukan, serta deskripsi-->
