@@ -8,7 +8,8 @@ creator:
 tags: ["ILC 2022", "Slides"]
 thumbnails: [assets/thumbnail.png]
 images: [general/Permainan-FLOSS-untuk-Pendidikan/assets/thumbnail.png]
-downloadfile: "https://www.youtube.com/watch?v=zpAtg5SYdt0"
+downloadfile: "assets/sokibi_video_link.txt"
 license: "CC BY-NC-ND 4.0"
 ---
-Implementasi di dunia pendidikan menggunakan berbagai aplikasi F/LOSS termasuk menggunakan permainan
+Implementasi di dunia pendidikan menggunakan berbagai aplikasi F/LOSS termasuk menggunakan permainan.
+Salindia ini berupa video dan dapat diakses melalui [Youtube via Tautan ini](https://www.youtube.com/watch?v=zpAtg5SYdt0)
