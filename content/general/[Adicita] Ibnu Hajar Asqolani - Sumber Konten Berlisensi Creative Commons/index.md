@@ -11,7 +11,7 @@ images: [general/adicita-ibnu-hajar-asqolani-sumber-konten-berlisensi-creative-c
 downloadfile: "assets/Ibnu_Hajar_Asqolani_-_Sumber_Konten_Berlisensi_Creative_Commons.zip"
 license: "CC BY-SA 4.0"
 ---
-Judul: Kenapa Harus SPT? Ada 4 Keuntungan Jika Menggunakan Sumber Pembelajaran Terbuka
+Judul: Sumber Konten Berlisensi Creative Commons
 Kreator: Ibnu Hajar Asqolani
 
 
