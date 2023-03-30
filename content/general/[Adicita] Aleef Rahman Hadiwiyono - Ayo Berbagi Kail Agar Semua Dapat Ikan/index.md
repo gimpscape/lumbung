@@ -15,6 +15,12 @@ Judul: Ayo Berbagi Kail Agar Semua Dapat Ikan: Open Educational Resources (OER) 
 Kreator: Aleef Rahman Hadiwiyono
 
 
+<!--more-->
+Kredit Aset Eksternal:
+- Modul 1: Pengenalan Sumber Pembelajaran Terbuka bagi Pendidik
+- Beberapa ikon dari https://www.unesco.org/en/open-educational-resources
+- Font: Roboto Condensed, Playfair Display - fonts.google.com
+
 Kontes Desain Infografik Adicita (KDIA) merupakan kegiatan kontes desain yang digelar oleh Komunitas Gimpscape ID bersama Creative Commons Indonesia (CCID). Kontes ini merupakan bagian dari rangkaian Proyek Adicita yang bertujuan untuk mengampanyekan konten sumber pembelajaran terbuka (Open Educational Resource). Kegiatan ini juga sekaligus untuk merayakan ulang tahun ke-7 Komunitas Gimpscape ID pada bulan Februari ini.
 
 #Adicita #Gimpscape #CCID

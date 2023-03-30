@@ -15,6 +15,15 @@ Judul: Yuk, Mengenal Sumber Pembelajaran Terbuka!
 Kreator: Wisnu Adi Santoso
 
 
+<!--more-->
+Kredit Aset Eksternal:
+- Facebook icon | https://s.klas.or.id/Nul
+- Telegram icon | https://s.klas.or.id/tPg
+- WhatsApp icon | https://s.klas.or.id/fOM
+- Instagram icon | https://s.klas.or.id/9Cw
+- Lato typeface - https://s.klas.or.id/jmt
+- CC-BY-SA logo | https://s.klas.or.id/cU7
+
 Kontes Desain Infografik Adicita (KDIA) merupakan kegiatan kontes desain yang digelar oleh Komunitas Gimpscape ID bersama Creative Commons Indonesia (CCID). Kontes ini merupakan bagian dari rangkaian Proyek Adicita yang bertujuan untuk mengampanyekan konten sumber pembelajaran terbuka (Open Educational Resource). Kegiatan ini juga sekaligus untuk merayakan ulang tahun ke-7 Komunitas Gimpscape ID pada bulan Februari ini.
 
 #Adicita #Gimpscape #CCID

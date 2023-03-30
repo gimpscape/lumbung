@@ -15,6 +15,15 @@ Judul: Sumber Pembelajaran Terbuka dan Ciri-cirinya
 Kreator: Moch Dwi Haryanto
 
 
+<!--more-->
+Kredit Aset Eksternal:
+- Networking - Iconathon - https://s.klas.or.id/rtA 
+- Audio - Alzam - https://s.klas.or.id/8aj
+- Student - krishna - https://s.klas.or.id/dfX 
+- Teacher - The Icon Z - https://s.klas.or.id/DP5
+- Education - Creative Mania - https://s.klas.or.id/o0W
+- Confuse - Gan Khoon Lay - https://s.klas.or.id/oOq
+
 Kontes Desain Infografik Adicita (KDIA) merupakan kegiatan kontes desain yang digelar oleh Komunitas Gimpscape ID bersama Creative Commons Indonesia (CCID). Kontes ini merupakan bagian dari rangkaian Proyek Adicita yang bertujuan untuk mengampanyekan konten sumber pembelajaran terbuka (Open Educational Resource). Kegiatan ini juga sekaligus untuk merayakan ulang tahun ke-7 Komunitas Gimpscape ID pada bulan Februari ini.
 
 #Adicita #Gimpscape #CCID

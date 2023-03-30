@@ -15,6 +15,14 @@ Judul: Berkenalan dengan Sumber Pembelajaran Terbuka
 Kreator: Ryan Willmanda Januardi
 
 
+<!--more-->
+Kredit Aset Eksternal:
+- hands-holding-books - CC BY SA - https://s.klas.or.id/hands-holding-book
+- flat-design-book-club - CC BY SA - https://s.klas.or.id/flat-design-book-club
+- man-holding-clock-time-management-concept - CC BY SA - https://s.klas.or.id/man-holding-clock-time
+- organic-flat-people-asking-questions - CC BY SA - https://s.klas.or.id/flat-people-asking
+
+
 Kontes Desain Infografik Adicita (KDIA) merupakan kegiatan kontes desain yang digelar oleh Komunitas Gimpscape ID bersama Creative Commons Indonesia (CCID). Kontes ini merupakan bagian dari rangkaian Proyek Adicita yang bertujuan untuk mengampanyekan konten sumber pembelajaran terbuka (Open Educational Resource). Kegiatan ini juga sekaligus untuk merayakan ulang tahun ke-7 Komunitas Gimpscape ID pada bulan Februari ini.
 
 #Adicita #Gimpscape #CCID

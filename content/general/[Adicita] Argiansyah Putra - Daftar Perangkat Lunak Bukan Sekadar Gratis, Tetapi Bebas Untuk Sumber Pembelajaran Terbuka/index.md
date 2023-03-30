@@ -15,6 +15,9 @@ Judul: Daftar Perangkat Lunak Bukan Sekadar Gratis, Tetapi Bebas Untuk Sumber Pe
 Kreator: Argiansyah Putra
 
 
+<!--more-->
+
+
 Kontes Desain Infografik Adicita (KDIA) merupakan kegiatan kontes desain yang digelar oleh Komunitas Gimpscape ID bersama Creative Commons Indonesia (CCID). Kontes ini merupakan bagian dari rangkaian Proyek Adicita yang bertujuan untuk mengampanyekan konten sumber pembelajaran terbuka (Open Educational Resource). Kegiatan ini juga sekaligus untuk merayakan ulang tahun ke-7 Komunitas Gimpscape ID pada bulan Februari ini.
 
 #Adicita #Gimpscape #CCID

@@ -15,6 +15,23 @@ Judul: Ini Sudah Sangat Cukup! Solusi perangkat lunak sumber terbuka untuk pendi
 Kreator: Wisnu Adi Santoso
 
 
+<!--more-->
+Kredit Aset Eksternal:
+- Facebook icon - https://s.klas.or.id/Nul
+- Telegram icon - https://s.klas.or.id/tPg
+- WhatsApp icon - https://s.klas.or.id/fOM
+- Instagram icon - https://s.klas.or.id/9Cw
+- Lato typeface - https://s.klas.or.id/jmt
+- LibreOffice Logo - https://s.klas.or.id/ckz
+- OpenBoard Logo - https://s.klas.or.id/DUf
+- Crow Translate Logo - https://s.klas.or.id/aYK
+- Xournal++ Logo - https://s.klas.or.id/QQq
+- Brave Logo - https://s.klas.or.id/Vfu
+- Foliate Logo - https://s.klas.or.id/0eW
+- Vokoscreen Logo - https://s.klas.or.id/0vl
+- CC-BY-SA Logo - https://s.klas.or.id/cU7
+
+
 Kontes Desain Infografik Adicita (KDIA) merupakan kegiatan kontes desain yang digelar oleh Komunitas Gimpscape ID bersama Creative Commons Indonesia (CCID). Kontes ini merupakan bagian dari rangkaian Proyek Adicita yang bertujuan untuk mengampanyekan konten sumber pembelajaran terbuka (Open Educational Resource). Kegiatan ini juga sekaligus untuk merayakan ulang tahun ke-7 Komunitas Gimpscape ID pada bulan Februari ini.
 
 #Adicita #Gimpscape #CCID
