@@ -12,6 +12,7 @@ downloadfile: "assets/Argiansyah_Putra_-_Daftar_Perangkat_Lunak_Bukan_Sekadar_Gr
 license: "CC BY-SA 4.0"
 ---
 Judul: Daftar Perangkat Lunak Bukan Sekadar Gratis, Tetapi Bebas Untuk Sumber Pembelajaran Terbuka
+
 Kreator: Argiansyah Putra
 
 

@@ -12,6 +12,7 @@ downloadfile: "assets/Wisnu_Adi_Santoso_-_Ini_Sudah_Sangat_Cukup.zip"
 license: "CC BY-SA 4.0"
 ---
 Judul: Ini Sudah Sangat Cukup! Solusi perangkat lunak sumber terbuka untuk pendidikan tingkat dasar
+
 Kreator: Wisnu Adi Santoso
 
 

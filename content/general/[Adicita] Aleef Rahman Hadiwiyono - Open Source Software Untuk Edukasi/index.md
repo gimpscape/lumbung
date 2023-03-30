@@ -12,6 +12,7 @@ downloadfile: "assets/Aleef_Rahman_Hadiwiyono_-_Open_Source_Software_Untuk_Eduka
 license: "CC BY-SA 4.0"
 ---
 Judul: Open Source Software Untuk Edukasi: Untuk Indonesia Yang Lebih Baik
+
 Kreator: Aleef Rahman Hadiwiyono
 
 

@@ -12,6 +12,7 @@ downloadfile: "assets/Muhammad_Sayyid_Mufid_-_Sumber_Bahan_Konten_Berlisensi_Cre
 license: "CC BY-SA 4.0"
 ---
 Judul: Sumber Bahan Konten Berlisensi Creative Commons
+
 Kreator: Muhammad Sayyid Mufid
 
 

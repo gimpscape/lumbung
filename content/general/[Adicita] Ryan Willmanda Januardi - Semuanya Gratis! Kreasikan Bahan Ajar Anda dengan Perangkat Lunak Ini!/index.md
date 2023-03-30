@@ -12,6 +12,7 @@ downloadfile: "assets/Ryan_Willmanda_Januardi_-_Kreasikan_Bahan_Ajar_Anda_dengan
 license: "CC BY-SA 4.0"
 ---
 Judul: Semuanya Gratis! Kreasikan Bahan Ajar Anda dengan Perangkat Lunak Ini!
+
 Kreator: Ryan Willmanda Januardi
 
 

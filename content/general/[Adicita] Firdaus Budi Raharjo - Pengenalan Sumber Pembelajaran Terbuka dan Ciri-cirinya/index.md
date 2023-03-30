@@ -12,6 +12,7 @@ downloadfile: "assets/Firdaus_Budi_Raharjo_-_Pengenalan_Sumber_Pembelajaran_Terb
 license: "CC BY-SA 4.0"
 ---
 Judul: Pengenalan Sumber Pembelajaran Terbuka dan Ciri-cirinya
+
 Kreator: Firdaus Budi Raharjo
 
 

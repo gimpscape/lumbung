@@ -12,6 +12,7 @@ downloadfile: "assets/Muhammad_Nur_Huda_-_Mengenal_Sumber_Pembelajaran_Terbuka.z
 license: "CC BY-SA 4.0"
 ---
 Judul: Mengenal Sumber Pembelajaran Terbuka, Pengertian, Ciri-Ciri, dan Jenis-Jenis Creative Common yang Tergolong SPT
+
 Kreator: Muhammad Nur Huda
 
 

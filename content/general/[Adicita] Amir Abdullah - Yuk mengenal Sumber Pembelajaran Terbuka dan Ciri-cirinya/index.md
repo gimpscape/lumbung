@@ -12,6 +12,7 @@ downloadfile: "assets/Amir_Abdullah_-_Yuk_mengenal_Sumber_Pembelajaran_Terbuka_d
 license: "CC BY-SA 4.0"
 ---
 Judul: Yuk mengenal Sumber Pembelajaran Terbuka dan Ciri-cirinya
+
 Kreator: Amir Abdullah
 
 

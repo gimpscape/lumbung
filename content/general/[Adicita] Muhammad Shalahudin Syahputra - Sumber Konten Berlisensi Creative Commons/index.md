@@ -12,6 +12,7 @@ downloadfile: "assets/Muhammad_Shalahudin_Syahputra_-_Sumber_Konten_Berlisensi_C
 license: "CC BY-SA 4.0"
 ---
 Judul: Sumber Konten Berlisensi Creative Commons
+
 Kreator: Muhammad Shalahudin Syahputra
 
 

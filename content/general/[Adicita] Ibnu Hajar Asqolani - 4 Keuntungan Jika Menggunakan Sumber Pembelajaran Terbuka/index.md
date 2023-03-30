@@ -12,6 +12,7 @@ downloadfile: "assets/Ibnu_Hajar_Asqolani_-_4_Keuntungan_Jika_Menggunakan_Sumber
 license: "CC BY-SA 4.0"
 ---
 Judul: Kenapa Harus SPT? Ada 4 Keuntungan Jika Menggunakan Sumber Pembelajaran Terbuka
+
 Kreator: Ibnu Hajar Asqolani
 
 

@@ -12,6 +12,7 @@ downloadfile: "assets/Muhammad_Rijalun_Shodaqu_-_Aplikasi_Gratisan_Tapi_Andalan_
 license: "CC BY-SA 4.0"
 ---
 Judul: Gak usah bayar, pakai ini aja. Aplikasi Gratisan Tapi Andalan yang Bisa Kalian Kakai Untuk Membuat SPT
+
 Kreator: Muhammad Rijalun Shodaqu
 
 

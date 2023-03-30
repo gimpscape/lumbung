@@ -12,6 +12,7 @@ downloadfile: "assets/Ryan_Willmanda_Januardi_-_Berkenalan_dengan_Sumber_Pembela
 license: "CC BY-SA 4.0"
 ---
 Judul: Berkenalan dengan Sumber Pembelajaran Terbuka
+
 Kreator: Ryan Willmanda Januardi
 
 

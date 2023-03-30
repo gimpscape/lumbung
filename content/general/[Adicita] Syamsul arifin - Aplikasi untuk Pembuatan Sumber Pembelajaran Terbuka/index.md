@@ -12,6 +12,7 @@ downloadfile: "assets/Syamsul_arifin_-_Aplikasi_untuk_Pembuatan_Sumber_Pembelaja
 license: "CC BY-SA 4.0"
 ---
 Judul: Aplikasi-Aplikasi untuk Pembuatan Sumber Pembelajaran Terbuka
+
 Kreator: Syamsul Arifin
 
 

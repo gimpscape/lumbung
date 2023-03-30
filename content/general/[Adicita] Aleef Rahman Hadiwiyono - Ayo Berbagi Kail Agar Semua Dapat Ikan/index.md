@@ -12,6 +12,7 @@ downloadfile: "assets/Aleef_Rahman_Hadiwiyono_-_Ayo_Berbagi_Kail_Agar_Semua_Dapa
 license: "CC BY-SA 4.0"
 ---
 Judul: Ayo Berbagi Kail Agar Semua Dapat Ikan: Open Educational Resources (OER) Untuk Pendidikan Yang Lebih Baik, Untuk Indonesia Yang Lebih Baik | Keuntungan Sumber Pembelajaran Terbuka (SPT)
+
 Kreator: Aleef Rahman Hadiwiyono
 
 

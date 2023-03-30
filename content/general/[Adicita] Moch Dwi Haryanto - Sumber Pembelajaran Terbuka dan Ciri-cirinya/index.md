@@ -12,6 +12,7 @@ downloadfile: "assets/Moch_Dwi_Haryanto_-_Sumber_Pembelajaran_Terbuka_dan_Ciri-c
 license: "CC BY-SA 4.0"
 ---
 Judul: Sumber Pembelajaran Terbuka dan Ciri-cirinya
+
 Kreator: Moch Dwi Haryanto
 
 

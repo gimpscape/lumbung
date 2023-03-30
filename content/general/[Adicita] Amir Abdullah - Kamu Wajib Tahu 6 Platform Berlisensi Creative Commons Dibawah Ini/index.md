@@ -12,6 +12,7 @@ downloadfile: "assets/Amir_Abdullah_-_Kamu_Wajib_Tahu_6_Platform_Berlisensi_Crea
 license: "CC BY-SA 4.0"
 ---
 Judul: Kamu Wajib Tahu 6 Platform Berlisensi Creative Commons Dibawah Ini
+
 Kreator: Amir Abdullah
 
 

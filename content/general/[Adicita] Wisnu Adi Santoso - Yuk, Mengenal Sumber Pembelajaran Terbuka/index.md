@@ -12,6 +12,7 @@ downloadfile: "assets/Wisnu_Adi_Santoso_-_Yuk,_Mengenal_Sumber_Pembelajaran_Terb
 license: "CC BY-SA 4.0"
 ---
 Judul: Yuk, Mengenal Sumber Pembelajaran Terbuka!
+
 Kreator: Wisnu Adi Santoso
 
 
