@@ -37,7 +37,11 @@ Di halaman web buku ini, Anda akan menemukan lebih banyak informasi dan sumber d
 Ahmad Haris telah tertarik pada dunia komputer sejak SD, dimulai dari belajar MS-DOS hingga merakit komputer sendiri. Ketertarikannya berkembang menjadi kecintaan pada Linux dan perangkat lunak open source. Kini, ia dikenal sebagai Open Source Evangelist yang aktif di berbagai komunitas open source lokal. Ia juga merupakan kontributor di komunitas LibreOffice dan anggota The Document Foundation hingga saat ini.
 
 #### Ahmad Romadhon Hidayatullah (Editor Adaptor) 
-Ahmad Haris telah tertarik pada dunia komputer sejak SD, dimulai dari belajar MS-DOS hingga merakit komputer sendiri. Ketertarikannya berkembang menjadi kecintaan pada Linux dan perangkat lunak open source. Kini, ia dikenal sebagai Open Source Evangelist yang aktif di berbagai komunitas open source lokal. Ia juga merupakan kontributor di komunitas LibreOffice dan anggota The Document Foundation hingga saat ini.
+Ahmad Romadhon Hidayatullah a.k.a Rania Amina, kontributor di pelbagai proyek open
+source baik lokal maupun internasional. Member resmi dari The Document Foundation
+(yayasan yang menaungi LibreOffice), Inkscape Vector Team sekaligus pengelola dan
+pengembang di Komunitas Gimpscape Indonesia, sebuah komunitas desain yang
+berfokus pada pemanfaatan dan kontribusi pada aplikasi sumber terbuka.
 
 #### Annisa Aulia Rasyidah (Ilustrator Adaptor)
 Annisa Aulia Rasyidah atau kerap dikenal dengan nama pengguna @menggelinding, perempuan berdarah Minang pencinta inkscape yang lagi suka membuat doodle lucu-lucu untuk disebar ke berbagai situs mikrostok.
