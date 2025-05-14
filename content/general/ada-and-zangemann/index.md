@@ -7,8 +7,8 @@ creator:
   gitlink: "https://www.linkedin.com/in/princeofgiri/"
 tags: ["FOSS", "Book"]
 thumbnails: [thumbnail.png]
-images: [general/ada-and-zangeman-thumbnail.png]
-downloadfile: "assets/ada-zangeman.pdf"
+images: [general/ada-and-zangemann-thumbnail.png]
+downloadfile: "assets/Ada_and_Zangemann_ID.pdf"
 license: "CC BY-SA 4.0"
 ---
 
