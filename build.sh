@@ -103,7 +103,7 @@ main() {
 
   # Build the project
   echo "Building the project..."
-  hugo build --gc --minify
+  hugo --gc --minify
 }
 
 main "$@"
