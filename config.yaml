@@ -28,3 +28,6 @@ params:
 googleAnalytics: UA-168261771-3
 # id untuk disqus
 disqusShortName: gimpscape-id
+caches:
+  images:
+    dir: :cacheDir/images
